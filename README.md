@@ -49,5 +49,5 @@ To learn more about React and related technologies, check out the following reso
 ## Contact
 For any queries, feel free to reach out:
 
-- **Email:** [nadunjayakody@example.com](mailto:nadunjayakody@example.com)
+- **Email:** [nadunjayakody@gmail.com](mailto:nadunjayakody@example.com)
 - **GitHub:** [nadunjayakody](https://github.com/nadunjayakody)
